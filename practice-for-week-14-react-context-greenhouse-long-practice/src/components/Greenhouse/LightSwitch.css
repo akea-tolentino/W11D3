@@ -16,10 +16,10 @@
 }
 
 .light-switch.day .on, .light-switch.night .off {
-  background-color: white;
+  background-color: gray;
 }
 
 .light-switch.night .on, .light-switch.day .off {
-  background-color: gray;
+  background-color: white;
   cursor: pointer;
 }
