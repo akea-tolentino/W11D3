@@ -1,0 +1,22 @@
+form.sample-form {
+    display: flex;
+    flex-direction: column;
+    /* border-width: 1px; */
+    border: 1px solid red;
+    /* border-color: red; */
+    /* border-style: solid; */
+    border-radius: 5px;
+}
+
+form.sample-form button {
+    width: 100px;
+    font-size: 18px;
+    margin-left: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+form.sample-form button:hover {
+    background-color: honeydew;
+    cursor: pointer;
+}
